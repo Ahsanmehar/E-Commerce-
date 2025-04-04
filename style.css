@@ -451,6 +451,9 @@ main {
   flex-wrap: nowrap;
   overflow-x: auto;
 }
+.part-2::-webkit-scrollbar {
+  display: none;
+}
 
 .part-2 .img-text {
   display: flex;
